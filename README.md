@@ -1,0 +1,1 @@
+"In this practice, we will first build a classic Linear Regression model and evaluate it. Then, using other types of regression models (Forward Selection, Backward Elimination, Ridge Regression, and LASSO Regression), we will compare and analyze the performance of the models."
